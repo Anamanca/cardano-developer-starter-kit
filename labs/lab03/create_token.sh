@@ -1,6 +1,6 @@
 #1- Thiết lập biến môi trường
 testnet="--testnet-magic 2"
-tokenname=$(echo -n "CBCA1" | xxd -ps | tr -d '\n')
+tokenname=$(echo -n "KAPI_C2B03" | xxd -ps | tr -d '\n')
 tokenamount="10000000"
 output="2000000"
 
